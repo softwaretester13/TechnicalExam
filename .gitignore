@@ -1,0 +1,7 @@
+.idea
+*.iml
+/test/cucumber/.byebug_history
+/test/cucumber/reports/*
+/test/cucumber/images
+/test/cucumber/rerun*.txt
+/test/cucumber/debug.log
